@@ -1,6 +1,6 @@
 ---
 layout: page
-title: clips
+title: clips 🦭
 permalink: /clips/
 ---
 
