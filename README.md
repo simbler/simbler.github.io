@@ -14,7 +14,7 @@
 ### formatting text 
 for other text formatting changes, see this [markdown guide](https://www.markdownguide.org/getting-started/)
 
-### custom styles 
+### customizing style 
 custom css can be added to `docs/_includes/head.html`. see jekyll's [minima theme docs](https://github.com/jekyll/minima#customizing-templates) for more.
 
 ## local usage
