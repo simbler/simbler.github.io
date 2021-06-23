@@ -5,6 +5,9 @@ permalink: /clips/
 ---
 
 ### The New York Times
+["When an Eel Climbs a Ramp to Eat Squid From a Clamp, That’s a Moray
+"](https://www.nytimes.com/2021/06/22/science/moray-eels-eat-land.html)
+
 ["Neanderthals Listened to the World Much Like Us"](https://www.nytimes.com/2021/03/01/science/neanderthals-hearing-language.html)
 
 ["Could Listening to the Deep Sea Help Save It?"](https://www.nytimes.com/2020/11/10/science/deep-sea-marine-biology-acoustics.html)
