@@ -20,8 +20,9 @@
 
 title: sabrina imbler
 header_pages:
-  - clips.markdown
   - index.markdown
+  - clips.markdown
+  - slug.markdown
 email: sabrina.imbler@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
