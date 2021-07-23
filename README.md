@@ -12,7 +12,7 @@
 4. when you're ready, hit the green "Commit changes" button 
 
 ### formatting text 
-for other text formatting changes, see this [markdown guide](https://www.markdownguide.org/getting-started/)
+for other text formatting changes, see this [markdown guide](https://guides.github.com/features/mastering-markdown/)
 
 ### customizing style 
 custom css can be added to `docs/_includes/head.html`. see jekyll's [minima theme docs](https://github.com/jekyll/minima#customizing-templates) for more.
