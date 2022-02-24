@@ -8,9 +8,9 @@ title: about 🐛
 
 Sabrina Imbler is currently a reporting fellow on the science and health desk of The New York Times. They love to write about the ocean and uncharismatic microfauna. They have received fellowships or scholarships from Tin House, the Asian American Writers’ Workshop and Jack Jones Literary Arts. Their essay collection about sea creatures, HOW FAR THE LIGHT REACHES, is forthcoming with Little, Brown in 2022 if they can finish it in time.
 
-For pitches for the The New York Times, email sabrina.imbler@nytimes.com.
+For pitches for the The New York Times, email sabrina.imbler at nytimes dot com.
 
-For literary and other inquiries, email sabrina.imbler@gmail.com.
+For literary and other inquiries, email sabrina.imbler at gmail dot com.
 
 Sabrina does not review products anymore, so please do not email about product reviews.
 
