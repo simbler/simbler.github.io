@@ -23,7 +23,6 @@ header_pages:
   - index.markdown
   - clips.markdown
   - slug.markdown
-email: sabrina.imbler@nytimes.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aznfusion
