@@ -6,9 +6,9 @@ layout: home
 title: about 🐛
 ---
 
-Sabrina Imbler is currently a reporting fellow on the science and health desk of The New York Times. They love to write about the ocean and uncharismatic microfauna. They have received fellowships or scholarships from Tin House, the Asian American Writers’ Workshop and Jack Jones Literary Arts. Their essay collection about sea creatures, HOW FAR THE LIGHT REACHES, is forthcoming with Little, Brown in 2022 if they can finish it in time.
+Sabrina Imbler is currently a staff writer at [Defector](https://defector.com/), an employee-owned sports and culture website, where they cover [creatures](https://defector.com/category/animals/creaturefector/). Previously Sabrina worked as a reporting fellow on the science and health desk of The New York Times. They have received fellowships or scholarships from Tin House, the Asian American Writers’ Workshop and Jack Jones Literary Arts. Their essay collection about sea creatures, [HOW FAR THE LIGHT REACHES](https://www.littlebrown.com/titles/sabrina-imbler/how-far-the-light-reaches/9780316540513/), is forthcoming with Little, Brown December 6, 2022.
 
-For pitches for the The New York Times, email sabrina.imbler at nytimes dot com.
+For pitches for Defector, email simbler at defector dot com.
 
 For literary and other inquiries, email sabrina.imbler at gmail dot com.
 
