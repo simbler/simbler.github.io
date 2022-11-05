@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: books 🐙
+title: books 🦑
 ---
 
 ![How Far the Light Reaches](/assets/how-far-the-light-reaches.jpg)
