@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: about 🐛
+title: books 🐙
 ---
 
 ![How Far the Light Reaches](/assets/how-far-the-light-reaches.jpg)
@@ -17,13 +17,5 @@ Sabrina's first book, an essay collection about sea creatures called [HOW FAR TH
 "Sabrina Imbler can break your heart while opening it to new wonders—their writing is as precise as it is lyrical, and will not leave you unchanged." —NICOLE CHUNG, author of ALL YOU CAN EVER KNOW.
 
 The NYC launch for HOW FAR THE LIGHT REACHES is happening at The Strand, and [tickets are available here](https://www.strandbooks.com/events/event526?title=_sabrina_imbler_how_far_the_light_reaches_a_life_in_ten_sea_creatures). There will be no book tour, but Sabrina will be doing virtual events and update this page with links when they are available.
-
-Sabrina Imbler is currently a staff writer at [Defector](https://defector.com/), an employee-owned sports and culture website, where they cover [creatures](https://defector.com/category/animals/creaturefector/). Previously Sabrina worked as a reporting fellow on the science and health desk of The New York Times. They have received fellowships or scholarships from Tin House, the Asian American Writers’ Workshop and Jack Jones Literary Arts. 
-
-To send ideas for Defector blogs, email simbler at defector dot com.
-
-For literary and other inquiries, email sabrina.imbler at gmail dot com.
-
-Sabrina does not review products anymore, so please do not email about product reviews.
 
 You can buy Sabrina's gay volcano chapbook, Dyke (geology) from [Black Lawrence Press](https://blacklawrencepress.com/books/dyke-geology/).
