@@ -16,6 +16,8 @@ Sabrina's first book, an essay collection about sea creatures called [HOW FAR TH
 
 "Sabrina Imbler can break your heart while opening it to new wonders—their writing is as precise as it is lyrical, and will not leave you unchanged." —NICOLE CHUNG, author of ALL YOU CAN EVER KNOW.
 
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
+
 HOW FAR THE LIGHT REACHES launch events:
 
 NYC: Tuesday, December 6, 7 pm ET—launching HFTLR at The Strand, in conversation with Rachel Gross. [Tickets are available here](https://www.strandbooks.com/events/event526?title=_sabrina_imbler_how_far_the_light_reaches_a_life_in_ten_sea_creatures).
@@ -29,6 +31,8 @@ Virtual: Thursday, December 15, 6 pm CT—a Room of One's Own, in conversation w
 San Francisco: Thursday December 22, 7 pm PT—launching HFTLR at Green Arcade, in conversation with Heather Smith and Rebecca Solnit. Ticket link coming soon!
 
 Virtual: Wednesday January 11, 6pm PT—launching HFTLR at Elliott Bay Books, in conversation with Ed Yong. Ticket link coming soon!
+
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 
 
 You can buy Sabrina's gay volcano chapbook, Dyke (geology) from [Black Lawrence Press](https://blacklawrencepress.com/books/dyke-geology/).
