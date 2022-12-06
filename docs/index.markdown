@@ -16,6 +16,4 @@ Sabrina's first book, an essay collection about sea creatures called [HOW FAR TH
 
 "Sabrina Imbler can break your heart while opening it to new wonders—their writing is as precise as it is lyrical, and will not leave you unchanged." —NICOLE CHUNG, author of ALL YOU CAN EVER KNOW.
 
-🌊 🌊 🌊 🌊
-
 You can buy Sabrina's gay volcano chapbook, Dyke (geology) from [Black Lawrence Press](https://blacklawrencepress.com/books/dyke-geology/).
