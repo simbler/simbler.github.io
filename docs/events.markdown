@@ -12,7 +12,7 @@ permalink: /events/
 **Wednesday, December 14, 7pm ET**—reading in the series Debuts and Redos along with Luke Dani Blue and Gretchen Felker-Martin. [This event is free, and you can register here!](https://www.eventbrite.com/e/debuts-and-redos-luke-dani-blue-gretchen-felker-martin-sabrina-imbler-tickets-468715640097)
 
 ### San Francisco
-**Thursday December 22, 7 pm PT**—launching HFTLR at Green Arcade, in conversation with Heather Smith and Rebecca Solnit. Ticket link coming soon!
+**Thursday December 22, 7 pm PT**—launching HFTLR at Green Arcade, in conversation with Heather Smith and Rebecca Solnit. [This event is free, and you can register here!](https://www.eventbrite.com/e/exotic-marine-animals-can-teach-us-about-adaptation-survival-sexuality-tickets-484244748077)
 
 ### Virtual
 **Thursday, December 15, 6 pm CT**—a Room of One's Own, in conversation with Christie Taylor. [This event is free, and you can register here!](https://www.roomofonesown.com/event/how-far-light-reaches-conversation-author-sabrina-imbler-and-guest-christie-taylor)
