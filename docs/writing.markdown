@@ -1,6 +1,6 @@
 ---
 layout: page
-title: writings 🦭
+title: writing 🦭
 permalink: /writing/
 ---
 
