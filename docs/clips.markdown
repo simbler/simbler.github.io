@@ -1,7 +1,7 @@
 ---
 layout: page
-title: writing 🦭
-permalink: /writing/
+title: clips 🦭
+permalink: /clips/
 ---
 
 
