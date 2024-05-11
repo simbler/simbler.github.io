@@ -1,28 +1,21 @@
 ---
 layout: page
-title: clips 🦭
-permalink: /clips/
+title: writings 🦭
+permalink: /writing/
 ---
 
-### The New York Times
-
-["The Maori Vision of Antarctica’s Future"](https://www.nytimes.com/2021/07/02/science/antarctica-maori-exploration.html)
-
-["The Perseverance of New York City’s Wildflowers"](https://www.nytimes.com/2021/03/20/science/new-york-flowers-spring.html)
-
-["He Was a Stick, She Was a Leaf; Together They Made History"](https://www.nytimes.com/2020/12/01/science/leaf-stick-insects-phyllium-asekiense.html)
-
-For more stories, [here is my author page](https://www.nytimes.com/by/sabrina-imbler).
-
-### The Atlantic
-
-["Life is Tough for Teenage Parasites"](https://www.theatlantic.com/science/archive/2021/02/deep-sea-parasite-ekes-out-life-hydrothermal-vents/618032/)
-
-["A Bug's Life"](https://www.theatlantic.com/magazine/archive/2021/04/tine-poppe/618077/)
 
 
-### JSTOR Daily
-["The Unsung Heroine of Lichenology"](https://daily.jstor.org/the-unsung-heroine-of-lichenology/) 
+["My Metamorphosis"](https://www.harpersbazaar.com/culture/features/a42167371/insects-sabrina-imbler/) in *Harper's Bazaar*
+
+["Are You Really So Different From the Blue Sea Blob?"](https://www.nytimes.com/2022/11/24/opinion/sea-creatures-blue-blob.html) in the *New York Times*
+
+["Started Out as a Fish. How Did It End Up Like This?"](https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html)
+
+For Defector stories, [here is my author page]([https://www.nytimes.com/by/sabrina-imbler](https://defector.com/author/sabrina-imbler)).
+
+
+
 
 ### Atlas Obscura
 ["In London, Natural History Museums Confront Their Colonial Histories"](https://www.atlasobscura.com/articles/decolonizing-natural-history-museum)
