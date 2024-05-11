@@ -6,10 +6,8 @@ permalink: /bio/
 
 ![Headshot by Marion Aguas](/assets/headshot-marion-aguas.jpg)
 
-Sabrina Imbler is currently a staff writer at [Defector](https://defector.com/), an employee-owned sports and culture website, where they cover [creatures](https://defector.com/category/animals/creaturefector/). Previously Sabrina worked as a reporting fellow on the science and health desk of The New York Times. They have received fellowships or scholarships from Tin House, the Asian American Writers’ Workshop and Jack Jones Literary Arts. 
-
-To send ideas for Defector blogs, email simbler at defector dot com.
+Sabrina Imbler is a staff writer at [Defector](https://defector.com/), a worker-owned site, where they cover [creatures and the natural world](https://defector.com/category/animals/creaturefector/). Their first full-length book, *How Far the Light Reaches*, won a Los Angeles Times book prize in science and technology. Their chapbook *Dyke (geology)*, was published by Black Lawrence Press, and was selected for the National Book Foundation Science + Literature Program. Sabrina lives in Brooklyn with their partner, cats Melon and Sesame, and a school of fish.
 
 For literary and other inquiries, email sabrina.imbler at gmail dot com.
 
-Sabrina does not review products anymore, so please do not email about product reviews.
+Sabrina does not review products anymore, so please do not email about product reviews. Please!
