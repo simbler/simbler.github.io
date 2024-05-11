@@ -13,11 +13,3 @@ permalink: /writing/
 ["Started Out as a Fish. How Did It End Up Like This?"](https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html)
 
 For Defector stories, [here is my author page]([https://www.nytimes.com/by/sabrina-imbler](https://defector.com/author/sabrina-imbler)).
-
-
-
-
-### Atlas Obscura
-["In London, Natural History Museums Confront Their Colonial Histories"](https://www.atlasobscura.com/articles/decolonizing-natural-history-museum)
-
-["Found: The Goofiest Crab That Ever Lived"](https://www.atlasobscura.com/articles/found-the-goofiest-crab-ever)
