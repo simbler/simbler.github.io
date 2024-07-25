@@ -10,5 +10,6 @@ title: books 🦑
 
 Sabrina's first book, an essay collection about sea creatures called [HOW FAR THE LIGHT REACHES](https://www.littlebrown.com/titles/sabrina-imbler/how-far-the-light-reaches/9780316540513/), came out in 2022 and won a Los Angeles Times Book Prize in Science and Technology. You can order it at your favorite local bookstore.
 
+![Dyke (geology)](/assets/dyke-geology.png)
 
 You can buy Sabrina's gay volcano chapbook, *Dyke (geology)* from [Black Lawrence Press](https://blacklawrencepress.com/books/dyke-geology/).
