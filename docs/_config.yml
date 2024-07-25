@@ -21,7 +21,6 @@
 title: sabrina imbler
 header_pages:
   - index.markdown
-  - events.markdown
   - writing.markdown
   - bio.markdown
 baseurl: "" # the subpath of your site, e.g. /blog
