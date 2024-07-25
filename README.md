@@ -19,10 +19,15 @@ custom css can be added to `docs/_includes/head.html`. see jekyll's [minima them
 
 ## local usage
 
-1. install dependencies and serve content:
+1. install dependencies and serve content (recommend developing in a container, such as with [vscode](https://code.visualstudio.com/docs/devcontainers/containers)):
 ```
+sudo snap install bundle
+sudo apt-get update
+sudo apt-get install ruby ruby-dev
+sudo gem install bundler
+
 cd docs
-bundle update
+sudo bundle update
 bundle exec jekyll serve
 ```
 2. go to `http://localhost:4000/`
